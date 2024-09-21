@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dulanjalee Gamage</h1>
 <h3 align="center">Software Engineering Undergraduate from Sri Lanka</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/c3ac217d-3b90-4f06-9818-0ad50a4c5544)
-">
+<img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
 - 📫 How to reach me **dulaagamage123@gmail.com**
 
