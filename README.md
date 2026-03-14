@@ -24,6 +24,6 @@
 <!-- Stats cards side by side -->
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulaagamage&show_icons=true&locale=en&layout=compact" alt="dulaagamage" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dulaagamage&show_icons=true&locale=en" alt="dulaagamage" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dulaagamage&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark" alt="dulaagamage" />
 </p>
 <br clear="both"/>
