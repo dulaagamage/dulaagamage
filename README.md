@@ -1,29 +1,51 @@
-<h1 align="center">Hi 👋, I'm Dulanjalee Gamage</h1>
-<h3 align="center">Software Engineering Undergraduate from Sri Lanka</h3>
+<!-- 🔥 Animated Typing Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Hi+👋+I'm+Dulanjalee+Gamage;Software+Engineering+Undergraduate;Full-Stack+Developer+in+Progress;UI%2FUX+Enthusiast" />
+</h1>
 
-<img align="right" alt="coding" width="285" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
+<h3 align="center">Software Engineering Undergraduate | Sri Lanka 🇱🇰</h3>
 
-- 📝 I regularly write articles on [https://medium.com/@dulaagamage123](https://medium.com/@dulaagamage123)
+<img align="right" alt="coding" width="280" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640.gif">
 
-- 📫 How to reach me **dulaagamage123@gmail.com**
+---
 
-- 💬 Passionate software engineering undergraduate, dedicated to leveraging technology to build a better future.
+### 🚀 About Me
+- 🧠 Passionate Software Engineering undergraduate focused on building impactful, user-centered solutions  
+- ✍️ I write technical articles → [Medium](https://medium.com/@dulaagamage123)  
+- 📬 Reach me at **dulaagamage123@gmail.com**  
+- 🌱 Exploring full-stack development, UI/UX, and scalable systems  
+- 🎯 Goal: Build tech that actually makes life easier
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/dulanjalee-gamage0218/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulanjalee-gamage0218" height="30" width="40" /></a>
-<a href="https://medium.com/@dulaagamage123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@dulaagamage123" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@dulaagamage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="dulanjalee gamage" height="30" width="40" /></a>
+---
+
+### 🌐 Connect with me
+<p align="left" style="display:flex; gap:12px; align-items:center;">
+  <a href="https://www.linkedin.com/in/dulanjalee-gamage0218/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="38"/>
+  </a>   &nbsp;
+
+  <a href="https://medium.com/@dulaagamage123" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="38"/>
+  </a>   &nbsp;
+
+  <a href="https://www.youtube.com/@dulaagamage" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" height="38"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+### 🧰 Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,tailwind,react,java,py,html,css,c,mysql,php,nodejs,git,npm,postman,jquery,firebase,"/>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,java,python,html,css,c,mysql,php,nodejs,git,npm,postman,firebase" />
 </p>
 
-<!-- Stats cards side by side -->
+---
+
+### 📊 GitHub Stats
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulaagamage&show_icons=true&locale=en&layout=compact" alt="dulaagamage" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dulaagamage&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark" alt="dulaagamage" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulaagamage&show_icons=true&locale=en&layout=compact" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=dulaagamage&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark" />
 </p>
+
 <br clear="both"/>
