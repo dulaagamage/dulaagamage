@@ -16,25 +16,25 @@
 
 <img align="right" alt="Developer coding animation" width="290" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640.gif" />
 
-👩‍💻 About Me
+## 👩‍💻 About Me
 
-🎓 Software Engineering undergraduate passionate about creating practical digital solutions
+- 🎓 Software Engineering undergraduate passionate about creating practical digital solutions
 
-💻 Growing across full-stack development, REST APIs, databases, and scalable systems
+- 💻 Growing across full-stack development, REST APIs, databases, and scalable systems
 
-🎨 Interested in clean UI/UX, responsive interfaces, and accessible user experiences
+- 🎨 Interested in clean UI/UX, responsive interfaces, and accessible user experiences
 
-✍️ Sharing what I learn through technical articles on Medium
+- ✍️ Sharing what I learn through technical articles on Medium
 
-🌱 Currently sharpening my skills in React, Spring Boot, Laravel, and modern web architecture
+- 🌱 Currently sharpening my skills in React, Spring Boot, Laravel, and modern web architecture
 
-🎯 My goal is simple: build technology that genuinely makes life easier
+- 🎯 Goal: Build technology that genuinely makes life easier
 
-📫 Reach me at dulaagamage123@gmail.com
+- 📫 Reach me at dulaagamage123@gmail.com
 
 <br clear="right" />
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/dulanjalee-gamage0218/">
@@ -51,72 +51,48 @@
   </a>
 </p>
 
-🧰 Tech Stack
+## 🧰 Tech Stack
 
-Languages
+- Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,ts,python,php,c,html,css&theme=dark" alt="Programming languages" />
 </p>
 
-Frameworks & Libraries
+- Frameworks & Libraries
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vue,spring,laravel,tailwind,nodejs&theme=dark" alt="Frameworks and libraries" />
 </p>
 
-Databases, Tools & Platforms
+- Databases, Tools & Platforms
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,npm,vite,postman,figma,vscode&theme=dark" alt="Databases, tools, and platforms" />
 </p>
 
-🌟 Featured Projects
+### 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/dulaagamage/plant-conservation-system">
-    <img width="410" height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=dulaagamage&repo=plant-conservation-system&theme=chartreuse-dark&hide_border=true" alt="Smart Herbal Plant Management System" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/dulaagamage/wedding-invites-system">
-    <img width="410" height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=dulaagamage&repo=wedding-invites-system&theme=chartreuse-dark&hide_border=true" alt="Wedding Invitation System" />
-  </a>
+  <a href="https://github.com/dulaagamage/plant-conservation-system"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=dulaagamage&repo=plant-conservation-system&card_width=410&description_lines_count=2&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="Smart Herbal Plant Management System" /></a>
+  <a href="https://github.com/dulaagamage/wedding-invites-system"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=dulaagamage&repo=wedding-invites-system&card_width=410&description_lines_count=2&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="Wedding Invitation System" /></a>
 </div>
 
 <br />
 
 <div align="center">
-  <a href="https://github.com/dulaagamage/task-manager-api">
-    <img width="410" height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=dulaagamage&repo=task-manager-api&theme=chartreuse-dark&hide_border=true" alt="Task Manager API" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/dulaagamage/SmartWaste-Kottawa">
-    <img width="410" height="150" src="https://github-stats-extended.vercel.app/api/pin/?username=dulaagamage&repo=SmartWaste-Kottawa&theme=chartreuse-dark&hide_border=true" alt="SmartWaste Kottawa" />
-  </a>
+  <a href="https://github.com/dulaagamage/task-manager-api"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=dulaagamage&repo=task-manager-api&card_width=410&description_lines_count=2&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="Task Manager API" /></a>
+  <a href="https://github.com/dulaagamage/SmartWaste-Kottawa"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=dulaagamage&repo=SmartWaste-Kottawa&card_width=410&description_lines_count=2&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="SmartWaste Kottawa" /></a>
 </div>
+
+### 📊 GitHub Analytics
 
 <div align="center">
-  <br />
-  <a href="https://github.com/dulaagamage?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore all projects" />
-  </a>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=dulaagamage&layout=compact&langs_count=6&card_width=410&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="Dulanjalee's most-used languages" />
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=dulaagamage&show_icons=true&hide=contribs,prs&line_height=30&card_width=410&cache_seconds=86400&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="Dulanjalee's GitHub statistics" />
 </div>
 
-📊 GitHub Analytics
-
-<div align="center">
-  <img width="410" height="180" src="https://github-stats-extended.vercel.app/api/top-langs?username=dulaagamage&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="Dulanjalee's most-used languages" />
-  &nbsp;&nbsp;
-  <img width="410" height="180" src="https://github-stats-extended.vercel.app/api?username=dulaagamage&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=chartreuse-dark&hide_border=true" alt="Dulanjalee's GitHub stats" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="830" src="https://streak-stats.demolab.com?user=dulaagamage&theme=chartreuse-dark&hide_border=true&border_radius=10&card_width=830" alt="Dulanjalee's GitHub contribution streak" />
-</div>
-
-📈 Contribution Activity
+## 📈 Contribution Activity
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dulaagamage&bg_color=000000&color=7CF5A3&line=8A7DFF&point=FFFFFF&area=true&hide_border=true" alt="Dulanjalee's GitHub contribution activity graph" />
@@ -124,7 +100,7 @@ Databases, Tools & Platforms
 
 <div align="center">
 
-💡 A Little Developer Energy
+## 💡 A Little Developer Energy
 
 “Great software isn't only about clean code—it's about solving the right problem for real people.”
 
