@@ -74,8 +74,8 @@
 ### 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/dulaagamage/plant-conservation-system"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=dulaagamage&repo=plant-conservation-system&card_width=410&description_lines_count=2&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="Smart Herbal Plant Management System" /></a>
-  <a href="https://github.com/dulaagamage/wedding-invites-system"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=dulaagamage&repo=wedding-invites-system&card_width=410&description_lines_count=2&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="Wedding Invitation System" /></a>
+  <a href="https://github.com/dulaagamage/plant-conservation-system"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=dulaagamage&repo=plant-conservation-system&card_width=410&description_lines_count=2&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&v=2" alt="Smart Herbal Plant Management System" /></a>
+  <a href="https://github.com/dulaagamage/wedding-invites-system"><img width="48%" src="https://github-stats-extended.vercel.app/api/pin/?username=dulaagamage&repo=wedding-invites-system&card_width=410&description_lines_count=2&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&v=2" alt="Wedding Invitation System" /></a>
 </div>
 
 <br />
