@@ -95,7 +95,9 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dulaagamage&bg_color=000000&color=7CF5A3&line=8A7DFF&point=FFFFFF&area=true&hide_border=true" alt="Dulanjalee's GitHub contribution activity graph" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img width="100%" src="https://vercel.app" alt="Dulanjalee's GitHub contribution activity graph" />
+  </a>
 </div>
 
 <div align="center">
