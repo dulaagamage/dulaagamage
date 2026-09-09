@@ -95,8 +95,8 @@
 ## 📈 Contribution Activity
 
 <div align="center">
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img width="100%" src="https://vercel.app" alt="Dulanjalee's GitHub contribution activity graph" />
+  <a href="https://github.com/dulaagamage/github-readme-activity-graph">
+    <img width="100%" src="https://vercel.app" alt="Dulanjalee's GitHub contribution activity graph"/>
   </a>
 </div>
 
