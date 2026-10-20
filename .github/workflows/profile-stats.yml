@@ -38,11 +38,16 @@ jobs:
           token: ${{ secrets.PROFILE_STATS_TOKEN }}
           fail_on_error: true
 
+      - name: Generate contribution line graph
+        env:
+          GH_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: python3 scripts/activity_graph.py
+        
       - name: Save updated cards
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats.svg profile/top-langs.svg
+          git add profile/stats.svg profile/top-langs.svg profile/activity.svg
           if git diff --cached --quiet; then
             echo "Cards are unchanged."
             exit 0
