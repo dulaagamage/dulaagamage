@@ -88,19 +88,19 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs?username=dulaagamage&layout=compact&langs_count=6&card_width=410&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="Dulanjalee's most-used languages" />
-  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=dulaagamage&show_icons=true&hide=contribs,prs&line_height=30&card_width=410&cache_seconds=86400&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" alt="Dulanjalee's GitHub statistics" />
-</div>
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <a href="https://github.com/dulaagamage/github-readme-activity-graph">
-    <img width="100%" src="https://vercel.app" alt="Dulanjalee's GitHub contribution activity graph"/>
-  </a>
+  <img width="48%"
+       src="./profile/top-langs.svg"
+       alt="Dulanjalee's most-used languages" />
+  <img width="48%"
+       src="./profile/stats.svg"
+       alt="Dulanjalee's GitHub statistics" />
 </div>
 
 <div align="center">
+  <img width="100%"
+       src="./profile/activity.svg"
+       alt="Daily GitHub contributions over the last 30 days" />
+</div>
 
 ## 💡 A Little Developer Energy
 
